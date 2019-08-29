@@ -3,10 +3,12 @@ Exploring and experimenting with ReactJS
 
 # Create first React App
 npx create-react-app hello-world
+
 cd hello-world
+
 npm start
 
-##### message on app creation
+## message on app creation
 Inside that directory, you can run several commands:
 
   npm start
