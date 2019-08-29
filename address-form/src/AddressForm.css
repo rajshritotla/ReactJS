@@ -1,0 +1,8 @@
+.row{
+  margin: 1%;
+}
+
+input, textarea, select{
+  margin-left: 1%;
+  border: solid navy;
+}

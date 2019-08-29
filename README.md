@@ -31,6 +31,9 @@ We suggest that you begin by typing:
 
 Happy hacking!
 
+# Bootstrap
+npm install react-bootstrap bootstrap
+
 # React Players
 
 render()
